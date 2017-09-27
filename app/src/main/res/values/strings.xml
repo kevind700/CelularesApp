@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">CelularesApp</string>
+    <string name="add">Crear</string>
+    <string name="reports">Reportes</string>
+    <string name="titleAdd">Agregar Celular</string>
+    <string name="trademark">Marca</string>
+    <string name="capacity">Capacidad</string>
+    <string name="color">Color</string>
+    <string name="operativeSystem">Ssistema Operativo</string>
+    <string name="price">Precio</string>
+    <string name="save">Guardar</string>
+    <string name="clear">Limpiar</string>
+    <array name="option">
+        <item>@string/add</item>
+        <item>@string/reports</item>
+    </array>
+    <string name="huawei">Huawei</string>
+    <string name="samsung">Samsung</string>
+    <string name="apple">Apple</string>
+    <string name="nokia">Nokia</string>
+    <string-array name="trademarks">
+        <item>@string/huawei</item>
+        <item>@string/samsung</item>
+        <item>@string/apple</item>
+        <item>@string/nokia</item>
+    </string-array>
+    <string name="c1">1</string>
+    <string name="c2">2</string>
+    <string name="c4">4</string>
+    <string-array name="capacities">
+        <item>@string/c1</item>
+        <item>@string/c2</item>
+        <item>@string/c4</item>
+    </string-array>
+    <string name="white">Blanco</string>
+    <string name="black">Negro</string>
+    <string-array name="colors">
+        <item>@string/white</item>
+        <item>@string/black</item>
+    </string-array>
+    <string name="ios">IOs</string>
+    <string name="android">Android</string>
+    <string-array name="systems">
+        <item>@string/ios</item>
+        <item>@string/android</item>
+    </string-array>
+    <string name="message_successful">Celular Guardado Exitosamente!</string>
+    <string name="allList">Listar Todos</string>
+    <string name="list1">Listar1</string>
+    <string name="list2">Listar2</string>
+    <string name="list3">Listar4</string>
+    <array name="optionReports">
+        <item>@string/allList</item>
+        <item>@string/list1</item>
+        <item>@string/list2</item>
+        <item>@string/list3</item>
+    </array>
+    <string name="message_error_not0">El campo cantidad es requerido</string>
+</resources>

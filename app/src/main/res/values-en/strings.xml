@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CelularesApp</string>
+    <string name="add">Add</string>
+    <string name="allList">All List</string>
+    <string name="android">Android</string>
+    <string name="apple">Apple</string>
+    <string name="black">Black</string>
+    <string name="c1">1</string>
+    <string name="c2">2</string>
+    <string name="c4">4</string>
+    <string name="capacity">Capacity</string>
+    <string name="clear">Clear</string>
+    <string name="color">Color</string>
+    <string name="huawei">Huwaei</string>
+    <string name="ios">IOs</string>
+    <string name="list1">List1</string>
+    <string name="list2">List2</string>
+    <string name="list3">List4</string>
+    <string name="message_error_not0">Field is required</string>
+    <string name="message_successful">Cell Phone Saved Successfully!</string>
+    <string name="nokia">Nokia</string>
+    <string name="operativeSystem">Operative System</string>
+    <string name="price">Price</string>
+    <string name="reports">Report</string>
+    <string name="samsung">Samsung</string>
+    <string name="save">Save</string>
+    <string name="titleAdd">Add Cellphone</string>
+    <string name="trademark">Trademark</string>
+    <string name="white">White</string>
+</resources>
